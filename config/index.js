@@ -10,10 +10,10 @@ export const config = {
     APP_SECRET: "3df25a8c3f23783af23c2a61417a0ba3",
 
     // 模板消息id
-    TEMPLATE_ID: "2P5zzsYoZMvhd3rV7rnPh9eB53PFTM_toJzQohGD39E",
+    TEMPLATE_ID: "3xC4lqN4OERRHYo_m2PQnJhKUKgPIHwi72a45KkyT7g",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "2P5zzsYoZMvhd3rV7rnPh9eB53PFTM_toJzQohGD39E",
+    CALLBACK_TEMPLATE_ID: "3xC4lqN4OERRHYo_m2PQnJhKUKgPIHwi72a45KkyT7g",
 
     USERS: [
       {name: '老婆', id: "ojanp6QE7lRViVSaQ-WSoYN3VnoE"}, 
