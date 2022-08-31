@@ -13,7 +13,7 @@ export const config = {
     TEMPLATE_ID: "2P5zzsYoZMvhd3rV7rnPh9eB53PFTM_toJzQohGD39E",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "xxxxxxxxxxxxx-y你懂的,填错狗头打烂VRMpu",
+    CALLBACK_TEMPLATE_ID: "2P5zzsYoZMvhd3rV7rnPh9eB53PFTM_toJzQohGD39E",
 
     USERS: [
       {name: '老婆', id: "ojanp6QE7lRViVSaQ-WSoYN3VnoE"}, 
